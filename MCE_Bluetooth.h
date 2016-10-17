@@ -13,8 +13,10 @@ extern "C" {
 #endif
 
     int VariaBLE;
+    int variable2;
     
-
+    long variable3 = 3;
+    
 
 #ifdef	__cplusplus
 }
