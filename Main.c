@@ -11,7 +11,7 @@
 void main(void) {
     
     while (1)  {
-        
+       __delay_ms(1); 
     }
     return;
 }

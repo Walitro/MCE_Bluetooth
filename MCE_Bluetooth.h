@@ -12,7 +12,8 @@
 extern "C" {
 #endif
 
-
+    int VariaBLE;
+    
 
 
 #ifdef	__cplusplus
